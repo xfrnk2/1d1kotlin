@@ -2,6 +2,7 @@ package xfrnk2.kotlin.boj.p1k.p1100
 
 
 fun main(args: Array<String>) {
+
     val (N, S) = readln().split(" ").map { it.toInt() }
     val list = readln().split(" ").map { it.toInt() }
 
